@@ -27,6 +27,7 @@ python train_test.py
 
 <u>**If you find this work useful for your research, please cite our paper:**</u>
 
+```BibTex
 @ARTICLE{9817377,
   author={Pan, Zhaoqing and Zhang, Hao and Lei, Jianjun and Fang, Yuming and Shao, Xiao and Ling, Nam and Kwong, Sam},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
@@ -36,3 +37,5 @@ python train_test.py
   number={},
   pages={1-1},
   doi={10.1109/TCSVT.2022.3188991}}
+```
+
